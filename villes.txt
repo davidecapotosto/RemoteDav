@@ -10,3 +10,4 @@ Pekin
 Londres
 Berlin
 Varsovie
+Oslo
