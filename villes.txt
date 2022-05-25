@@ -14,3 +14,9 @@ Oslo
 Copenagen
 Riga
 Belgrade
+Dublin
+Belfast
+Oporto
+Athene
+Turin
+
