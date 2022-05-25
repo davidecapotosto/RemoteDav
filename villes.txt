@@ -14,3 +14,4 @@ Oslo
 Copenagen
 Riga
 Dublin
+Belfast
