@@ -13,7 +13,4 @@ Varsovie
 Oslo
 Copenagen
 Riga
-Dublin
-Belfast
-Oporto
-Athene
+Belgrade
