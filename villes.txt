@@ -1,2 +1,5 @@
 Paris
 Rome
+Tokyo
+Bruxelles
+Singapour
