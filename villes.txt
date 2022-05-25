@@ -9,3 +9,6 @@ Amsterdam
 Pekin
 Londres
 Berlin
+Los Angeles
+New York
+Boston
